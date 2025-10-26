@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Olá, eu sou Camila Christine <3.</h2>
+<h2 align="left">Olá, eu sou Camila Christine ✨🚀🖖🏽.</h2>
 
 ###
 
