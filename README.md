@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Olá, eu sou Camila Christine, sou formada em Analise e desenvolvimento de sistemas e estudante de Programação em Front-end <3.</h2>
+<h2 align="left">Hi 👋! Olá, eu sou Camila Christine <3.</h2>
 
 ###
 
